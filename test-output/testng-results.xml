@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12507" started-at="2021-06-01T22:09:37 CDT" finished-at="2021-06-01T22:09:49 CDT">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.TestRunnner.TestRunnerrrrr@17d677df]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="12507" started-at="2021-06-01T22:09:37 CDT" finished-at="2021-06-01T22:09:49 CDT">
+      <class name="com.TestRunnner.TestRunnerrrrr">
+        <test-method status="PASS" signature="OpenURL()[pri:0, instance:com.TestRunnner.TestRunnerrrrr@17d677df]" name="OpenURL" is-config="true" duration-ms="2291" started-at="2021-06-01T22:09:37 CDT" finished-at="2021-06-01T22:09:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.TestRunnner.TestRunnerrrrr@17d677df]" name="setUpClass" is-config="true" duration-ms="307" started-at="2021-06-01T22:09:39 CDT" finished-at="2021-06-01T22:09:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.TestRunnner.TestRunnerrrrr@17d677df]" name="feature" duration-ms="8900" started-at="2021-06-01T22:09:40 CDT" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-06-01T22:09:48 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.TestRunnner.TestRunnerrrrr@17d677df]" name="tearDownClass" is-config="true" duration-ms="9" started-at="2021-06-01T22:09:48 CDT" finished-at="2021-06-01T22:09:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="CloseURL()[pri:0, instance:com.TestRunnner.TestRunnerrrrr@17d677df]" name="CloseURL" is-config="true" duration-ms="854" started-at="2021-06-01T22:09:48 CDT" finished-at="2021-06-01T22:09:49 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseURL -->
+      </class> <!-- com.TestRunnner.TestRunnerrrrr -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

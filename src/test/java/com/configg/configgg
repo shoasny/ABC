@@ -1,0 +1,11 @@
+QA= https://www.dell.com/en-us
+UAT=https://www.ebay.com/
+
+Browser= Chrome
+Browser2= FF
+
+username1 = mohammad.jahan@nexttechitc.com
+Password1=Jahan1234
+
+username2 = mohammad.jahan@nexttechitc.com
+Password2=Jahan1234
